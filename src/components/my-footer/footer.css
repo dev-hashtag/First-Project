@@ -1,0 +1,15 @@
+.my-footer {
+    background-color: #343a40;
+    color: #fff;
+} 
+.my-footer a:hover {
+  text-decoration: none;
+}
+.text-uppercase span {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 6px;
+}
+.text-uppercase {
+    margin-bottom: 35px;
+
+}
